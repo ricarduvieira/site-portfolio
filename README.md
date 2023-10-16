@@ -1,4 +1,6 @@
-# site-portfolio
+# PAGINA PORTFOLIO
+
+![imagem](https://github.com/ricarduvieira/site-portfolio/assets/102393137/25292cb2-f14b-4466-bccc-c2f57d0acfe2)
 
 Este é um projeto de uma pagina de portifolio. A pagina conta com apresentação pessoal, descrição de skills, opção de contato e alguns projetos.
 
