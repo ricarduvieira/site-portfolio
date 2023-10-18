@@ -12,13 +12,13 @@ A pagina foi hospedada no github e está online através do link https://ricardu
 
 TECNOLOGIAS DO PROJETO
 
-JavaScript
+- JavaScript
 
-HTML
+- HTML
 
-CSS
+- CSS
 
-Git
+- Git
 
-Github
+- Github
 
