@@ -221,6 +221,7 @@ section.especiliadades {
 section.especiliadades .flex {
     gap: 60px;
     justify-content: center;
+    align-items: center;
 }
 
 .especiliadades .especialidades-box {
