@@ -216,11 +216,11 @@ section.topo-do-site .flex {
 /* ESTILO DAS ESPECIALIDADES */
 section.especiliadades {
     padding: 40px 4%;
-
 }
 
 section.especiliadades .flex {
     gap: 60px;
+    justify-content: center;
 }
 
 .especiliadades .especialidades-box {
